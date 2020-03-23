@@ -1,5 +1,5 @@
 # chatroom-ejb
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/chatroom/chatroom-ejb](https://github.com/shroysha/shroysha.github.io/tree/master/chatroom/chatroom-ejb)
+> see code: [https://github.com/shroysha/chatroom-ejb](https://github.com/shroysha/chatroom-ejb)
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
