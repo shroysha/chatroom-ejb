@@ -5,4 +5,4 @@
 Shared components of chatroom
 
 ### Tags
-[Groovy, Spring Boot EJB]
+[Groovy]
