@@ -2,7 +2,7 @@
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
-Shared components of chatroom
+Shared software components of chatroom
 
 ### Tags
 [Groovy]
